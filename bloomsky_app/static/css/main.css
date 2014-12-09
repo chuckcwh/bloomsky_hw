@@ -1,0 +1,26 @@
+#question_pick {
+    margin-top: 20px;
+    text-align: center;
+}
+.data_window {
+    margin: 20px;
+    padding: 10px;
+    background-color: lightpink;
+    word-wrap: break-word;
+}
+.mid_window {
+    margin-top: 100px;
+    text-align: center;
+}
+#result, #q3_result {
+    color: green;
+}
+.show_window {
+    margin: 20px;
+    padding: 10px;
+    background-color: lightgreen;
+    word-wrap: break-word;
+}
+#q2_window, #q3_window {
+    display: none;
+}
